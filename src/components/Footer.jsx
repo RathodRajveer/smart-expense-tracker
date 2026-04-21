@@ -1,0 +1,1 @@
+export default () => <footer className='footer'>Developed for Academic Project</footer>

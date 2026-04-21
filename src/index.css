@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box
+}
+
+body {
+  font-family: Inter, Arial;
+  background: #0b1120;
+  color: #fff
+}
+
+body.light {
+  background: #f5f7fb;
+  color: #111
+}
+
+a {
+  text-decoration: none;
+  color: #cbd5e1;
+  padding: 12px;
+  border-radius: 10px
+}
+
+a.active,
+a:hover {
+  background: #1e293b;
+  color: #fff
+}
+
+button,
+input,
+select {
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  margin: 6px
+}
